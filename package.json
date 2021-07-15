@@ -5,6 +5,7 @@
   "author": "Innei",
   "license": "MIT",
   "scripts": {},
+  "homepage": "https://793338023.github.io/pnpm-mono",
   "devDependencies": {},
   "dependencies": {
     "jest": "26.6.0",
