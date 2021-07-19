@@ -79,3 +79,6 @@ https://pnpm.io/zh/how-peers-are-resolved
 pnpm 新项目可尝试，因为依赖严格，会导致一些应用在依赖上不严格的情况下报错，而且对 jest 有点不兼容，issue 一堆 jest 的问题
 
 https://github.com/pnpm/pnpm/issues?page=1&q=is%3Aissue+jest
+
+设置git hook钩子，git hook不区分语言，可以使用shell写
+git config core.hooksPath
